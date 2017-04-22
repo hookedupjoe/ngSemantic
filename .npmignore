@@ -1,7 +1,5 @@
 demo
 tools
-*.ts
-!*.d.ts
 Procfile
 node_modules
 tslint.json
